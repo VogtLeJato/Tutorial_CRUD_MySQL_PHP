@@ -1,0 +1,2 @@
+Professor, eu não consegui acessar no meu computador, com o xampp ou wamp, o phpmyadmin, então, montei o arquivo 0.1_CreateBdCRUD.sql e os arquivos 1_Sql_CRUD.sql e 2_Sql_CRUD.sql, sendo que o 0.1 serve como um guia para montar o banco de dados pelo mysql no terminal.
+ 
